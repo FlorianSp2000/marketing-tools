@@ -1,0 +1,4 @@
+praw
+moviepy
+pandas
+ffmpeg
